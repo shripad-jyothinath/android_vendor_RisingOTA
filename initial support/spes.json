@@ -1,0 +1,28 @@
+{
+  "response": [
+    {
+        "maintainer": "ShripadJ",
+        "oem": "Xiaomi",
+        "device": "Redmi note 11",
+        "filename": "rising_spes-ota_user.Shripad.Pixel.zip",
+        "download": "https://sourceforge.net/projects/ricedroid/files/spes/.x/rising_spes-ota_user.Shripad.Pixel.zip/download",
+        "timestamp": ,
+        "md5": "",
+        "sha256": "",
+        "size": ,
+        "version": ".",
+        "buildtype": "Monthly",
+        "forum": "https://t.me/RisingOSSpes",
+        "gapps": "",
+        "firmware": "",
+        "modem": "",
+        "bootloader": "",
+        "recovery": "",
+        "paypal": "",
+        "telegram": "t.me/Shripad_Gamer",
+        "dt": "https://github.com/shripad-jyothinath/device_xiaomi_spes.git",
+        "common-dt": "",
+        "kernel": "https://github.com/shripad-jyothinath/kernel_xiaomi_spes_header.git"
+    }
+  ]
+}
