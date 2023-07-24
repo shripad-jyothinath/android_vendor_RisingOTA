@@ -8,4 +8,5 @@ July 24th:
 . Use double tap to wake by default
 . Update carrier config to LA.QSSI.13.0.r1-10000.02-qssi.0
 . Enable OTA
+. And much more
 
