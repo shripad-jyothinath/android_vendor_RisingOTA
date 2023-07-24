@@ -3,23 +3,23 @@
 
 #modify values below
 #leave blank if not used
-maintainer="Name (nickname)" #ex: Lup Gabriel (gwolfu)
-oem="OEM" #ex: OnePlus
-device="device codename" #ex: guacamole
-devicename="name of device" #ex: OnePlus 7 Pro
-zip="ricedroid zip" #ex: crDroidAndroid-<android version>-<date>-<device codename>-v<ricedroid version>.zip
-buildtype="type" #choose from Testing/Alpha/Beta/Weekly/Monthly
-forum="" #https link (mandatory)
+maintainer="ShripadJ" #ex: Lup Gabriel (gwolfu)
+oem="Xiaomi" #ex: OnePlus
+device="spes" #ex: guacamole
+devicename="Redmi note 11" #ex: OnePlus 7 Pro
+zip="lineage_spes-ota_user.Shripad.Pixel.zip" #ex: crDroidAndroid-<android version>-<date>-<device codename>-v<ricedroid version>.zip
+buildtype="Monthly" #choose from Testing/Alpha/Beta/Weekly/Monthly
+forum="https://t.me/RisingOSSpes" #https link (mandatory)
 gapps="" #https link (leave empty if unused)
 firmware="" #https link (leave empty if unused)
 modem="" #https link (leave empty if unused)
 bootloader="" #https link (leave empty if unused)
 recovery="" #https link (leave empty if unused)
 paypal="" #https link (leave empty if unused)
-telegram="" #https link (leave empty if unused)
-dt="" #https://github.com/ricedroidandroid/android_device_<oem>_<device_codename>
+telegram="t.me/Shripad_Gamer" #https link (leave empty if unused)
+dt="https://github.com/shripad-jyothinath/device_xiaomi_spes.git" #https://github.com/ricedroidandroid/android_device_<oem>_<device_codename>
 commondt="" #https://github.com/ricedroidandroid/android_device_<orm>_<SOC>-common
-kernel="" #https://github.com/ricedroidandroid/android_kernel_<oem>_<SOC>
+kernel="https://github.com/shripad-jyothinath/kernel_xiaomi_spes_header.git" #https://github.com/ricedroidandroid/android_kernel_<oem>_<SOC>
 
 
 #don't modify from here
