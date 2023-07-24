@@ -1,0 +1,12 @@
+July 24th:
+. Make ui smoother
+. fix safety net
+. add more status bar padding
+. Fix some denails in power supply
+. Make banking apps work with Magisk
+. Increase volume steps by default
+. Use double tap to wake by default
+. Update carrier config to LA.QSSI.13.0.r1-10000.02-qssi.0
+. Enable OTA
+. And much more
+
