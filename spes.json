@@ -1,28 +1,28 @@
 {
-  "response": [
-    {
-        "maintainer": "ShripadJ",
-        "oem": "Xiaomi",
-        "device": "Redmi note 11",
-        "filename": "rising_spes-ota_user.Shripad.Pixel.zip",
-        "download": "https://sourceforge.net/projects/ricedroid/files/spes/.x/rising_spes-ota_user.Shripad.Pixel.zip/download",
-        "timestamp": ,
-        "md5": "",
-        "sha256": "",
-        "size": ,
-        "version": ".",
-        "buildtype": "Monthly",
-        "forum": "https://t.me/RisingOSSpes",
-        "gapps": "",
-        "firmware": "",
-        "modem": "",
-        "bootloader": "",
-        "recovery": "",
-        "paypal": "",
-        "telegram": "t.me/Shripad_Gamer",
-        "dt": "https://github.com/shripad-jyothinath/device_xiaomi_spes.git",
-        "common-dt": "",
-        "kernel": "https://github.com/shripad-jyothinath/kernel_xiaomi_spes_header.git"
-    }
-  ]
+	"response": [
+		{
+			"maintainer": "ShripadJ",
+			"oem": "Xiaomi",
+			"device": "Redmi note 11",
+			"filename": "risingOS-v1.2.5-Camelot-RELEASE-202307301102-spes-PIXEL-UNOFFICIAL.zip",
+			"download": "",
+			"timestamp": 1690714944,
+			"md5": "3de8c103231e03befc3cbda009b35ed6",
+			"sha256": "e61a107f1d60dc510b8c34bcf1c2d70a1449842c1da8162a21760996c7951bcc",
+			"size": 1755302954,
+			"version": "v1.2-Camelot",
+			"buildtype": "Monthly",
+			"forum": "https://t.me/RisingOSSpes",
+			"gapps": "",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "",
+			"paypal": "",
+			"telegram": "",
+			"dt": "https://github.com/shripad-jyothinath/device_xiaomi_spes.git",
+			"common-dt": "",
+			"kernel": "https://github.com/shripad-jyothinath/kernel_xiaomi_spes_header.git"
+		}
+	]
 }
