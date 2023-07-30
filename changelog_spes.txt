@@ -1,3 +1,8 @@
+July 30th --
+- Fix ota
+-Miui camera still doesn't work
+- Use Rising dialer and messages
+
 July 24th:
 . Make ui smoother
 . fix safety net
@@ -9,4 +14,3 @@ July 24th:
 . Update carrier config to LA.QSSI.13.0.r1-10000.02-qssi.0
 . Enable OTA
 . And much more
-
